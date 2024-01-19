@@ -1,0 +1,10 @@
+@import '@fontsource/montserrat';
+
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+:root {
+  background-color: #010202;
+  color: #FFFFFF;
+}
